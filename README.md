@@ -19,7 +19,7 @@ With hands-on experience in Server Infrastructure gained at ONI Telecom , I have
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-al&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogo-al&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
