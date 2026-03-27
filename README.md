@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Diogo%20Almeida&fontSize=70&animation=fadeIn&fontColor=00FF00" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Diogo%20Gonçalves&fontSize=70&animation=fadeIn&fontColor=00FF00" width="100%"/>
 
   <h3> 🛡️ Aspiring Ethical Hacker | Java Developer | Security Enthusiast </h3>
 
