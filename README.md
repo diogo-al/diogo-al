@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Diogo%20Gonçalves&fontSize=70&animation=fadeIn&fontColor=00FF00" width="100%"/>
 
-  <h3> ⚡ 2nd Year Computer Science Student @ ISCTE | Tech Enthusiast </h3>
+  <h3> ⚡ 2nd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Parrot_OS-58F1F1?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   </p>
 </div>
@@ -15,17 +15,18 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education**: Currently in my **2nd year of Computer Science** at ISCTE. I'm focusing on building a strong understanding of how systems and networks work.
-- 🛡️ **Cybersecurity**: I have a deep interest in the defensive and offensive side of technology. My goal is to eventually transition into **Penetration Testing**.
-- 🌱 **Current Learning**: Focusing heavily on **Networking fundamentals** and getting comfortable with the **Linux command line**.
+- 🎓 **Education**: Currently in my **2nd year of Computer Science** at ISCTE. I have built a solid foundation in software development through academic projects, with a focus on **Java (OOP)** and efficient data structures.
+- 🎖️ **Recognition**: Proud member of the **ISCTE Top Talent** program.
+- 🛡️ **Cybersecurity**: Passionate about the offensive side of tech. My goal is to master network exploitation and move towards **Penetration Testing**.
+- 🌱 **Current Learning**: Deepening my knowledge in **TCP/IP fundamentals**, traffic analysis with **Wireshark**, and Linux administration.
 
 ---
 
-### 🛤️ My Roadmap (What I'm actually studying)
+### 🛠️ Core Skills (Entry Level)
 
-- **Networking**: Studying the OSI model and TCP/IP stack. Using **Wireshark** to analyze basic traffic and understand protocols.
-- **Linux**: Getting proficient with the terminal, file permissions, and bash scripting.
-- **Security Basics**: Learning the theory behind common vulnerabilities and how to mitigate them in code.
+- **Operating Systems**: Daily user of **Parrot OS** and **Kali Linux** for security labs; Windows for general tasks.
+- **Programming**: Java (Intermediate/OOP), C (Academic), Python (Scripting).
+- **Network & Tools**: Basic Network Scanning, Wireshark, Bash Scripting, Version Control (Git).
 
 ---
 
@@ -42,13 +43,6 @@
     </tr>
   </table>
 </div>
-
----
-
-### 🛠️ Core Skills (Entry Level)
-- **Programming**: Java (Core), C (Academic), Python (Scripting basics).
-- **Operating Systems**: Linux (daily user), Windows.
-- **Tools**: Wireshark (Traffic analysis), Git/GitHub (Version control).
 
 ---
 
