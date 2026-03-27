@@ -14,8 +14,6 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🔭 Atualmente a desenvolver o **SentinelVault**, um gestor de passwords cifrado em Java.
-- 🔐 Focado em aprender **Criptografia Aplicada** e **Vulnerabilidades Web (OWASP Top 10)**.
 - 🌱 Aprofundar conhecimentos em Redes e Pentesting.
 
 ---
