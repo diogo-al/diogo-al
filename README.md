@@ -5,6 +5,9 @@
 ---
 
 ### 👨‍💻 About Me
+Computer Engineering Student at ISCTE-IUL recognized as ISTA Top Talent 2024/2025.
+
+With hands-on experience in Server Infrastructure gained at ONI Telecom , I have developed a strong foundation in hardware assembly and Linux-based environments, including Ubuntu, Kali, and Parrot OS. My current focus is dedicated to the field of Cybersecurity and Ethical Hacking, where I apply my analytical skills to network security and system architecture.
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,7 +19,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[TEU_USER]&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-al&show_icons=true&theme=tokyonight)
 
 ---
 
