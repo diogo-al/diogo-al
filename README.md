@@ -11,6 +11,8 @@
 ![Kali](https://img.shields.io/badge/Kali-2778FF?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 📊 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[TEU_USER]&show_icons=true&theme=tokyonight)
