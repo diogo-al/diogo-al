@@ -17,7 +17,6 @@
 
 - 🎓 **Education**: Currently in my **2nd year of Computer Science** at ISCTE. I'm focusing on building a strong understanding of how systems and networks work.
 - 🛡️ **Cybersecurity**: I have a deep interest in the defensive and offensive side of technology. My goal is to eventually transition into **Penetration Testing**.
-- 🛠️ **Current Projects**: Working on [SentinelVault](https://github.com/diogo-al/SentinelVault), a personal project to practice Java and data security logic.
 - 🌱 **Current Learning**: Focusing heavily on **Networking fundamentals** and getting comfortable with the **Linux command line**.
 
 ---
