@@ -24,7 +24,7 @@
 ### 🛤️ My Roadmap (What I'm actually studying)
 
 - **Networking**: Studying the OSI model and TCP/IP stack. Using **Wireshark** to analyze basic traffic and understand protocols.
-- **Linux**: Getting proficient with the terminal, file permissions, and basic bash scripting.
+- **Linux**: Getting proficient with the terminal, file permissions, and bash scripting.
 - **Security Basics**: Learning the theory behind common vulnerabilities and how to mitigate them in code.
 
 ---
