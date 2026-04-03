@@ -1,20 +1,23 @@
 <div align="center">
 <pre>
-#       ___  _                  _____                   __           
-#      / _ \(_)__  ___ ____    / ___/__  ___  _______ _/ /  _____ ___
-#     / // / / _ \/ _ `/ _ \  / (_ / _ \/ _ \/ __/ _ `/ / |/ / -_|_-<
-#    /____/_/\___/\_, /\___/  \___/\___/_//_/\__/\_,_/_/|___/\__/___/
-#                /___/                                               
+#         ___  _                 _____                    __            
+#        / _ \(_)__  ___ ____    / ___/__  ___  _______ _/ /  _____ ___ 
+#       / // / / _ \/ _ `/ _ \  / (_ / _ \/ _ \/ __/ _ `/ / |/ / -_|_-< 
+#      /____/_/\___/\_, /\___/  \___/\___/_//_/\__/\_,_/_/|___/\__/___/ 
+#                   /___/                                               
 </pre>
       
   <h3> ⚡ 2nd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Parrot_OS-58F1F1?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Parrot_OS-58F1F1?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  </p>
 </div>
 
 ---
@@ -30,33 +33,29 @@
 
 ### 🛠️ Core Skills (Entry Level)
 
-- **Operating Systems**: Daily user of **Parrot OS** and **Kali Linux** for security labs; Windows for general tasks.
-- **Programming**: Java (Intermediate/OOP), C (Academic), Python (Scripting).
+- **Operating Systems**: Daily user of **Kali Linux** and **Parrot OS** for security labs; Windows for general tasks.
+- **Programming & Web**: Java (Intermediate/OOP), C (Academic), Python (Scripting), HTML5 & CSS3.
 - **Network & Tools**: Basic Network Scanning, Wireshark, Bash Scripting, Version Control (Git).
 
 ---
 
-### 📊 GitHub Analytics
+### 🖥️ System Monitoring (Activity & Stats)
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=diogo-al&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-al&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <table border="0">
+    <tr>
+      <td align="center">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-al&theme=tokyonight&hide_border=true" width="400" />
+      </td>
+      <td align="center">
+         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diogo-al&layout=compact&theme=tokyonight&hide_border=true" width="350" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ### 📬 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/diogo-gonçalves-pt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:diogoleogoncalves@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diogo-gonçalves-pt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:diogoleogoncalves@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-
-cokmo posso meter isto
