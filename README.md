@@ -7,7 +7,7 @@
 #                   /___/                                               
 </pre>
       
-  <h3> ⚡ 2nd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
+  <h3> ⚡ 3nd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education**: Currently in my **2nd year of Computer Science** at ISCTE. I have built a solid foundation in software development through academic projects, with a focus on **Java (OOP)** and efficient data structures.
+- 🎓 **Education**: Currently in my **3nd year of Computer Science** at ISCTE. I have built a solid foundation in software development through academic projects, with a focus on **Java (OOP)** and efficient data structures.
 - 🎖️ **Recognition**: Proud member of the **ISCTE Top Talent** program.
 - 🛡️ **Cybersecurity**: Passionate about the offensive side of tech. My goal is to master network exploitation and move towards **Penetration Testing**.
 - 🌱 **Current Learning**: Deepening my knowledge in **TCP/IP fundamentals**, traffic analysis with **Wireshark**, and Linux administration.
