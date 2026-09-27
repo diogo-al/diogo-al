@@ -45,9 +45,6 @@
   <table border="0">
     <tr>
       <td align="center">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-al&theme=tokyonight&hide_border=true" width="400" />
-      </td>
-      <td align="center">
          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diogo-al&layout=compact&theme=tokyonight&hide_border=true" width="350" />
       </td>
     </tr>
