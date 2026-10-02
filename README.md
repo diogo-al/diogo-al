@@ -7,7 +7,7 @@
 #                   /___/                                               
 </pre>
       
-  <h3> ⚡ 3nd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
+  <h3> ⚡ 3rd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
