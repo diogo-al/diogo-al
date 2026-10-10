@@ -25,32 +25,42 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education**: Currently in my **3nd year of Computer Science** at ISCTE. I have built a solid foundation in software development through academic projects, with a focus on **Java (OOP)** and efficient data structures.
-- 🎖️ **Recognition**: Proud member of the **ISCTE Top Talent** program.
-- 🛡️ **Cybersecurity**: Passionate about the offensive side of tech. My goal is to master network exploitation and move towards **Penetration Testing**.
-- 🌱 **Current Learning**: Deepening my knowledge in **TCP/IP fundamentals**, traffic analysis with **Wireshark**, and Linux administration.
+- 🎓 **Education**: 3rd year of Computer Science at **ISCTE**, with a solid foundation in software development (Java/OOP, Python, C, Scala) and a strong academic record.
+- 🎖️ **Recognition**: Member of the **ISCTE Top Talent** program.
+- 🛡️ **Focus**: Offensive security. I'm building towards **Penetration Testing** and cyberdefense, with the **eJPT → OSCP** path as my roadmap.
+- 💼 **Experience**: Internship at **ONI Telecom**.
+- 🌱 **Currently learning**: dynamic routing (OSPF/BGP), TCP/IP and traffic analysis with Wireshark, Linux administration and privilege escalation.
 
 ---
 
-### 🛠️ Core Skills (Entry Level)
+### 🔐 Cybersecurity Practice
 
-- **Operating Systems**: Daily user of **Kali Linux** and **Parrot OS** for security labs; Windows for general tasks.
-- **Programming & Web**: Java (Intermediate/OOP), C (Academic), Python (Scripting), HTML5 & CSS3.
-- **Network & Tools**: Basic Network Scanning, Wireshark, Bash Scripting, Version Control (Git).
+- **TryHackMe / HackTheBox**: 15+ boxes completed (web exploitation, LFI/log poisoning, deserialization, file upload bypasses, SUID/cron/sudo privesc), each with a written walkthrough.
+- **Methodology**: personal pentest methodology in Obsidian, organised symptom-first.
+- **Home lab**: Cisco switch&router, pfSense, Proxmox and a Parrot OS attack machine, plus wireless security practice (aircrack-ng, PMKID).
+- **Smart boat monitoring**: Raspberry Pi 5 with Home Assistant, ESPHome, Signal K, MQTT and Tailscale remote access.
+- 🚧 **Currently building**: a SOC monitoring dashboard (Flask, D3, psutil) with real log ingestion and GeoIP.
 
 ---
 
-### 🖥️ System Monitoring (Activity & Stats)
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diogo-al&layout=compact&theme=tokyonight&hide_border=true" width="350" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [EncryptedVault](https://github.com/diogo-al/EncryptedVault) | Java password manager using AES-256 (CBC) with SHA-256 key derivation and local encrypted storage |
+| [parking-system](https://github.com/diogo-al/parking-system) | Bash and C project for Operating Systems |
+| [ST-Automator-GUI](https://github.com/diogo-al/ST-Automator-GUI) | Java automated testing engine for validating algorithm implementations |
+| [Portfolio](https://diogo-al.github.io) | Personal web portfolio |
+
 ---
+
+### 🛠️ Skills
+
+- **Operating Systems**: Parrot OS (daily driver), Kali Linux, Windows
+- **Programming**: Java (OOP), Python, C, Scala, Bash, HTML/CSS
+- **Networking**: Cisco, OSPF/BGP, Wireshark, pfSense, Proxmox
+- **Security tools**: Nmap, hashcat, John, aircrack-ng, Burp-style web testing
+- **Other**: Git, Obsidian, Home Assistant/MQTT
 
 ### 📬 Let's Connect
 <p align="left">
