@@ -35,7 +35,7 @@
 
 ### 🔐 Cybersecurity Practice
 
-- **TryHackMe / HackTheBox**: 15+ boxes completed (web exploitation, LFI/log poisoning, deserialization, file upload bypasses, SUID/cron/sudo privesc), each with a written walkthrough.
+- **TryHackMe / HackTheBox**: 50+ boxes completed (web exploitation, LFI/log poisoning, deserialization, file upload bypasses, SUID/cron/sudo privesc), each with a written walkthrough.
 - **Methodology**: personal pentest methodology in Obsidian, organised symptom-first.
 - **Home lab**: Cisco switch&router, pfSense, Proxmox and a Parrot OS attack machine, plus wireless security practice (aircrack-ng, PMKID).
 - **Smart boat monitoring**: Raspberry Pi 5 with Home Assistant, ESPHome, Signal K, MQTT and Tailscale remote access.
