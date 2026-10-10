@@ -7,7 +7,7 @@
 #                   /___/                                               
 </pre>
       
-  <h3> ⚡ 3rd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
+  <h3> ⚡ 3rd Year Computer Science Student @ ISCTE | ISTA Top Talent | Tech Enthusiast </h3>
 
   <p align="center">
         <img src="https://img.shields.io/badge/Cybersecurity-FF4500?style=for-the-badge&logo=tryhackme&logoColor=white"/>
