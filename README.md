@@ -10,15 +10,15 @@
   <h3> ⚡ 3rd Year Computer Science Student @ ISCTE | ISCTE Top Talent | Tech Enthusiast </h3>
 
   <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-FF4500?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Parrot_OS-58F1F1?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+        <img src="https://img.shields.io/badge/Cybersecurity-FF4500?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Parrot_OS-58F1F1?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
+        <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,scala,bash,git,linux,raspberrypi,obsidian" />
-</p
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,c,scala,bash,git,linux,raspberrypi,obsidian" />
+  </p>
 </div>
 
 ---
